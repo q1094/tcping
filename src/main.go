@@ -21,7 +21,7 @@ const (
 	copyright   = "Copyright (c) 2026. All rights reserved."
 	programName = "TCPing"
 
-	repoGitHub = "https://github.com/2959916298/tcping"
+	repoGitHub = "https://github.com/q1094/tcping"
 	repoCNB    = "https://cnb.cool/l1094/tcping"
 
 	defaultCSVFlushEvery = 50

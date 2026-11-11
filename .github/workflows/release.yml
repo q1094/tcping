@@ -76,6 +76,6 @@ jobs:
               --notes "TCPing $TAG
 
           开源地址:
-          - GitHub: https://github.com/2959916298/tcping
+          - GitHub: https://github.com/q1094/tcping
           - CNB: https://cnb.cool/l1094/tcping"
           fi

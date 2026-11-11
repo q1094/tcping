@@ -25,8 +25,8 @@ readonly NC='\033[0m' # No Color
 # 基本配置
 readonly INSTALL_DIR="/usr/local/bin"
 readonly TCPING_BIN="tcping"
-readonly GITHUB_API="https://api.github.com/repos/2959916298/tcping"
-readonly GITHUB_REPO="https://github.com/2959916298/tcping"
+readonly GITHUB_API="https://api.github.com/repos/q1094/tcping"
+readonly GITHUB_REPO="https://github.com/q1094/tcping"
 readonly TEMP_DIR="/tmp/tcping_install"
 
 # 全局变量

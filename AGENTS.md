@@ -6,7 +6,7 @@ tcping：基于 Go 的高性能 TCP Ping 工具（跨平台 Linux/Windows/macOS�
 
 | 远程 | 地址 | 说明 |
 |---|---|---|
-| `origin` | https://github.com/2959916298/tcping | GitHub |
+| `origin` | https://github.com/q1094/tcping | GitHub |
 | `cnb` | https://cnb.cool/l1094/tcping | CNB（国内直连） |
 
 代码改动需同时推两个远程：`git push origin main` 和 `git push cnb main`。
